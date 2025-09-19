@@ -30,7 +30,7 @@ This project demonstrates **web scraping, automation, and email notifications** 
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/amazon-price-tracker.git
+git clone https://github.com/mudasirfayaz/amazon-price-tracker.git
 cd amazon-price-tracker
 ```
 
