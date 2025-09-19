@@ -1,0 +1,2 @@
+friendsemail@example.com
+secondemail@example.com
